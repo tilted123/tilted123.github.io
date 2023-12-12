@@ -1,16 +1,27 @@
 {
   "files": {
     "main.css": "/static/css/main.70a7f16b.css",
-    "main.js": "/static/js/main.122df5ca.js",
+    "main.js": "/static/js/main.17b2de57.js",
     "static/js/787.d4aba7ab.chunk.js": "/static/js/787.d4aba7ab.chunk.js",
+    "static/media/Испытания характеристик качества программного продукта.pdf": "/static/media/Испытания характеристик качества программного продукта.e2398828eaec70748a69.pdf",
+    "static/media/Системные основы разработки требований к программным продуктам.pdf": "/static/media/Системные основы разработки требований к программным продуктам.c9cede1a9ec8cc2c0c94.pdf",
+    "static/media/Требования к надежности и функциональной безопасности программных продуктов.pdf": "/static/media/Требования к надежности и функциональной безопасности программных продуктов.e0e95e83f996fcd946d5.pdf",
+    "static/media/Удостоверение качества и завершение сертификационных испытаний.pdf": "/static/media/Удостоверение качества и завершение сертификационных испытаний.150723203f49675bcb47.pdf",
+    "static/media/Основные понятия, цели и виды сертификации.pdf": "/static/media/Основные понятия, цели и виды сертификации.b894562f1bfb97b398ba.pdf",
+    "static/media/Требования к качеству функционирования программных продуктов.pdf": "/static/media/Требования к качеству функционирования программных продуктов.012f07916e7e9cc30802.pdf",
+    "static/media/Определение назначения, функций системы.pdf": "/static/media/Определение назначения, функций системы.384ed2cdc1e3d432e5a7.pdf",
+    "static/media/Сертификация процессов производства программных продуктов и систем качества предприятий.pdf": "/static/media/Сертификация процессов производства программных продуктов и систем качества предприятий.3deb5971e48ae6399f62.pdf",
+    "static/media/Стратегии и планирование испытаний программных продуктов.pdf": "/static/media/Стратегии и планирование испытаний программных продуктов.b0b75a5fc050034fa382.pdf",
+    "static/media/Порядок сертификационных испытаний сложного программного продукта.pdf": "/static/media/Порядок сертификационных испытаний сложного программного продукта.19fa26d6e5a5e11b898d.pdf",
+    "static/media/Цели, задачи и процессы сертификационных испытаний программных продуктов.pdf": "/static/media/Цели, задачи и процессы сертификационных испытаний программных продуктов.e162e61ffba827871a88.pdf",
     "static/media/icon.png": "/static/media/icon.aec02d7f495067a72fa8.png",
     "index.html": "/index.html",
     "main.70a7f16b.css.map": "/static/css/main.70a7f16b.css.map",
-    "main.122df5ca.js.map": "/static/js/main.122df5ca.js.map",
+    "main.17b2de57.js.map": "/static/js/main.17b2de57.js.map",
     "787.d4aba7ab.chunk.js.map": "/static/js/787.d4aba7ab.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.70a7f16b.css",
-    "static/js/main.122df5ca.js"
+    "static/js/main.17b2de57.js"
   ]
 }
